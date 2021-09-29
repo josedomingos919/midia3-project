@@ -1,7 +1,7 @@
 # midia3-project
 Mobile Application
 
-Descrição da tarefa
+## Descrição da tarefa
 
 A aplicação deverá ser apenas para Android. Ao iniciar, abrir um loader. Após o loader, aproximadamente 5s, o App deverá apresentar um menu hamburguer: “Minha conta”, “Meus Pedidos” e “Sobre”. Quando usuário clicar em “Minha conta”, mostrar um formulário de cadastro. Se o cliente clicar em “Meus Pedidos”, abrir uma listagem de pedidos. Se o cliente clicar em “Sobre”, apresentar uma tela com informações fixas e textuais sobre o aplicativo, tipo versão, autor etc. Tenha liberdade de escolher o que mostrar nas telas. Não se prender a layout bonito, estamos mais preocupados com a estrutura e forma de programação.
 
