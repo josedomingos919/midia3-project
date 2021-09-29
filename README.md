@@ -9,4 +9,10 @@ A aplicação deverá ser apenas para Android. Ao iniciar, abrir um loader. Apó
 
  - 1 Clonar o repositório
  - 2 Rodar o comando `yarn` ou `npm install` para instalar as depedencias 
- - 3 Rodar `yarn start` ou `npm start`
+ - 3 Rodar `yarn start` ou `npm start` para iniciar a aplicação 
+
+# Stack
+
+ - React Native
+ - Expo-CLI
+ - JavaScript ES6
